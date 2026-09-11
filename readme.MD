@@ -1,5 +1,5 @@
 Penugasan TLS 2026
-Nama			: Muhammad Reza Pahevi
+Nama			: Muhammad Reza Pahlevi
 Kelompok		: Ruby
 
 Repository ini berisi:
